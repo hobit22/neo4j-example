@@ -1,0 +1,14 @@
+id,name,coalesce
+1,Frontend,Frontend development and web technologies
+2,Backend,Backend development and server technologies
+3,Mobile,"Mobile app development (iOS, Android)"
+4,AI/ML,Artificial Intelligence and Machine Learning
+5,Data,"Data Science, Analytics, and Engineering"
+6,DevOps,"DevOps, CI/CD, and Infrastructure as Code"
+7,Infrastructure,System Infrastructure and Cloud
+8,Security,Cybersecurity and Information Security
+10,Architecture,Software Architecture and System Design
+11,Product,Product Management and Development
+12,Culture,Engineering Culture and Team Management
+13,Career,Career Development and Professional Growth
+9,Test,Software Testing and Quality Assurance

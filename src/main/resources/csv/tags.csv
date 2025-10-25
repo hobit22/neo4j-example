@@ -1,0 +1,226 @@
+id,name,coalesce,coalesce
+1,JavaScript,Dynamic programming language for web development,language
+35,Less,CSS preprocessor,styling
+71,Rails,Ruby web application framework,backend-framework
+14,Clojure,Dynamic Lisp dialect,language
+24,Svelte,Cybernetically enhanced web apps,frontend-framework
+18,R,Statistical computing language,language
+15,Elixir,Dynamic functional language,language
+16,Haskell,Purely functional language,language
+11,PHP,Server-side scripting language,language
+25,Solid,Simple and performant reactivity,frontend-framework
+6,Rust,Systems programming language,language
+27,Nuxt.js,Vue.js framework,frontend-framework
+28,SvelteKit,Full-stack Svelte framework,frontend-framework
+4,Java,Object-oriented programming language,language
+30,Gatsby,Static site generator,frontend-framework
+33,SCSS,Syntactically Awesome Style Sheets,styling
+34,Sass,CSS extension language,styling
+131,JUnit,Java testing framework,testing
+36,Tailwind CSS,Utility-first CSS framework,styling
+38,Emotion,CSS-in-JS library,styling
+39,CSS-in-JS,CSS styling in JavaScript,styling
+41,Chakra UI,Simple modular accessible component library,styling
+47,Turbopack,Incremental bundler by Vercel,build-tool
+48,Grunt,JavaScript task runner,build-tool
+49,Gulp,Streaming build system,build-tool
+163,Hexagonal Architecture,Ports and adapters pattern,architecture
+52,Fastify,Fast and low overhead web framework,backend-framework
+53,Koa,Expressive middleware for Node.js,backend-framework
+54,NestJS,Scalable Node.js framework,backend-framework
+55,Hapi,Rich framework for building applications,backend-framework
+5,Go,Statically typed compiled language by Google,language
+56,Django,High-level Python web framework,backend-framework
+58,Flask,Lightweight Python web framework,backend-framework
+59,Tornado,Python web framework and library,backend-framework
+60,Pyramid,Python web framework,backend-framework
+61,Starlette,Lightweight ASGI framework,backend-framework
+19,Shell,Command-line scripting,language
+64,Quarkus,Supersonic Subatomic Java,backend-framework
+65,Micronaut,Modern JVM framework,backend-framework
+66,Gin,HTTP web framework for Go,backend-framework
+67,Echo,High performance Go web framework,backend-framework
+68,Fiber,Express inspired web framework,backend-framework
+69,Chi,Lightweight HTTP router,backend-framework
+7,Swift,Programming language for iOS development,language
+140,Cordova,Mobile app development framework,mobile
+10,C#,Microsoft object-oriented language,language
+72,ASP.NET,Microsoft web framework,backend-framework
+40,Bootstrap,CSS framework,styling
+192,Lazy Loading,Loading technique,performance
+20,C,Low-level programming language,language
+31,Astro,Static site builder,frontend-framework
+45,Parcel,Zero configuration build tool,build-tool
+17,Dart,Client-optimized language by Google,language
+194,Lighthouse,Web performance tool,performance
+57,FastAPI,Modern Python web framework,backend-framework
+70,Laravel,PHP web application framework,backend-framework
+12,Ruby,Dynamic object-oriented language,language
+133,Storybook,Component development tool,testing
+29,Remix,Full stack web framework,frontend-framework
+193,Web Vitals,Quality signals for web,performance
+73,Phoenix,Elixir web framework,backend-framework
+77,SQLite,Lightweight database engine,database
+37,Styled Components,CSS-in-JS library,styling
+22,Vue,Progressive JavaScript framework,frontend-framework
+86,InfluxDB,Time series database,database
+130,pytest,Python testing framework,testing
+97,Netlify,Web development platform,cloud
+83,CouchDB,Document database,database
+141,PWA,Progressive Web Apps,mobile
+82,Cassandra,Distributed database,database
+87,Elasticsearch,Distributed search engine,search
+88,Solr,Enterprise search platform,search
+89,Algolia,Search-as-a-service platform,search
+90,MeiliSearch,Lightning fast search engine,search
+50,Node.js,JavaScript runtime environment,backend-framework
+26,Next.js,React framework for production,frontend-framework
+94,DigitalOcean,Cloud infrastructure provider,cloud
+23,Angular,TypeScript-based web application framework,frontend-framework
+96,Vercel,Frontend cloud platform,cloud
+95,Heroku,Cloud platform as a service,cloud
+123,Cypress,End-to-end testing framework,testing
+101,Podman,Daemonless container engine,container
+102,Docker Compose,Multi-container Docker applications,container
+104,Rancher,Kubernetes management platform,container
+105,Terraform,Infrastructure as code tool,iac
+106,Pulumi,Modern infrastructure as code,iac
+107,CloudFormation,AWS infrastructure as code,iac
+108,CDK,AWS Cloud Development Kit,iac
+109,Ansible,IT automation tool,iac
+110,Chef,Configuration management tool,iac
+111,Puppet,Configuration management,iac
+112,GitHub Actions,CI/CD platform by GitHub,cicd
+113,GitLab CI,GitLab continuous integration,cicd
+114,Jenkins,Automation server,cicd
+115,CircleCI,Continuous integration platform,cicd
+116,Travis CI,Continuous integration service,cicd
+117,Azure DevOps,Microsoft DevOps solution,cicd
+118,Git,Distributed version control,vcs
+119,GitHub,Git repository hosting,vcs
+120,GitLab,Git repository manager,vcs
+121,Bitbucket,Git repository hosting,vcs
+98,Firebase,Google app development platform,cloud
+138,Ionic,Cross-platform app framework,mobile
+85,DynamoDB,AWS NoSQL database,database
+124,Playwright,Cross-browser testing,testing
+127,Mocha,JavaScript test framework,testing
+128,Chai,BDD/TDD assertion library,testing
+129,Jasmine,Behavior-driven testing,testing
+9,C++,General-purpose programming language,language
+139,Xamarin,Microsoft mobile framework,mobile
+84,Neo4j,Graph database,database
+142,Redux,Predictable state container,state-management
+143,MobX,"Simple, scalable state management",state-management
+144,Zustand,"Small, fast state management",state-management
+43,Vite,Frontend build tool,build-tool
+145,Recoil,Experimental state management for React,state-management
+146,Jotai,Primitive and flexible state management,state-management
+147,Pinia,Vue store library,state-management
+92,Azure,Microsoft Cloud Platform,cloud
+42,Webpack,Static module bundler,build-tool
+44,Rollup,Module bundler,build-tool
+46,esbuild,Extremely fast bundler,build-tool
+136,React Native,Cross-platform mobile framework,mobile
+148,Vuex,State management pattern for Vue,state-management
+74,PostgreSQL,Advanced open source database,database
+80,MongoDB,Document-oriented database,database
+153,tRPC,End-to-end typesafe APIs,api
+99,Docker,Containerization platform,container
+152,WebSocket,Real-time communication protocol,api
+161,DDD,Domain-Driven Design,architecture
+185,HTTPS,HTTP Secure,security
+167,Apache Spark,Unified analytics engine,data
+168,Hadoop,Distributed storage and processing,data
+169,Kafka,Distributed streaming platform,data
+170,Apache Airflow,Workflow automation,data
+171,dbt,Data build tool,data
+172,Pandas,Data manipulation and analysis,data
+173,NumPy,Scientific computing with Python,data
+174,Matplotlib,Python plotting library,data
+175,TensorFlow,Machine learning framework,ai-ml
+176,PyTorch,Machine learning framework,ai-ml
+177,Scikit-learn,Machine learning library,ai-ml
+178,Keras,Deep learning API,ai-ml
+179,OpenAI,AI research company,ai-ml
+180,Hugging Face,ML model hub,ai-ml
+181,LangChain,Framework for LLM applications,ai-ml
+164,MVC,Model-View-Controller,architecture
+165,MVP,Model-View-Presenter,architecture
+184,SAML,Security Assertion Markup Language,security
+157,Monolith,Single-tiered application,architecture
+189,CDN,Content Delivery Network,performance
+8,Kotlin,Modern programming language for Android,language
+183,JWT,JSON Web Tokens,security
+51,Express,Fast Node.js web framework,backend-framework
+187,CORS,Cross-Origin Resource Sharing,security
+191,Code Splitting,Bundle optimization technique,performance
+196,VS Code,Code editor,tool
+197,IntelliJ IDEA,Integrated development environment,tool
+198,Postman,API development environment,tool
+199,Figma,Design tool,tool
+200,Slack,Team communication,tool
+201,Jira,Issue tracking,tool
+202,Notion,Workspace tool,tool
+203,Prometheus,Monitoring system,monitoring
+204,Grafana,Analytics and monitoring,monitoring
+205,Datadog,Monitoring and analytics,monitoring
+206,New Relic,Application performance monitoring,monitoring
+207,Sentry,Error tracking,monitoring
+208,Elastic Stack,Search and analytics,monitoring
+209,RabbitMQ,Message broker,messaging
+210,Apache Kafka,Distributed streaming,messaging
+211,AWS SQS,Message queuing service,messaging
+212,Redis Pub/Sub,Publish/subscribe messaging,messaging
+213,CI/CD,Continuous Integration/Deployment,devops
+214,Infrastructure as Code,Managing infrastructure through code,devops
+215,GitOps,Git-based deployment,devops
+216,Blue-Green Deployment,Deployment strategy,devops
+217,Canary Deployment,Gradual rollout strategy,devops
+122,Jest,JavaScript testing framework,testing
+150,GraphQL,Query language for APIs,api
+218,Agile,Software development methodology,methodology
+219,Scrum,Agile framework,methodology
+220,TDD,Test-Driven Development,methodology
+221,BDD,Behavior-Driven Development,methodology
+126,Testing Library,Testing utilities,testing
+137,Flutter,Google UI toolkit,mobile
+195,Service Worker,Background script,performance
+166,MVVM,Model-View-ViewModel,architecture
+151,gRPC,High performance RPC framework,api
+222,Code Review,Code examination process,methodology
+223,Pair Programming,Collaborative programming,methodology
+224,Technical Debt,Future cost of rework,concept
+225,Refactoring,Code restructuring,concept
+135,Android,Google mobile platform,mobile
+62,Spring Boot,Java application framework,backend-framework
+188,OWASP,Open Web Application Security Project,security
+160,CQRS,Command Query Responsibility Segregation,architecture
+156,Microservices,Architectural style,architecture
+21,React,JavaScript library for building user interfaces,frontend-framework
+2,TypeScript,Typed superset of JavaScript,language
+63,Spring,Java application framework,backend-framework
+190,Caching,Data storage technique,performance
+79,SQL Server,Microsoft database system,database
+125,Selenium,Web application testing,testing
+75,MySQL,Popular open source database,database
+93,GCP,Google Cloud Platform,cloud
+182,OAuth,Open standard for access delegation,security
+91,AWS,Amazon Web Services,cloud
+186,TLS,Transport Layer Security,security
+134,iOS,Apple mobile platform,mobile
+81,Redis,In-memory data structure store,database
+162,Clean Architecture,Software design philosophy,architecture
+149,REST,Representational State Transfer,api
+132,Vitest,Vite native testing framework,testing
+159,Event-Driven,Event-driven architecture,architecture
+13,Scala,Functional and object-oriented language,language
+158,Serverless,Cloud execution model,architecture
+100,Kubernetes,Container orchestration,container
+78,Oracle,Enterprise database system,database
+3,Python,High-level programming language,language
+32,CSS,Cascading Style Sheets,styling
+76,MariaDB,MySQL compatible database,database
+103,Helm,Kubernetes package manager,container
+155,Swagger,API documentation tool,api
+154,OpenAPI,API specification,api
