@@ -16,7 +16,7 @@ import java.util.Set;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-@ToString(exclude = {"topics", "referencedPosts", "author", "company"})
+@ToString(exclude = {"tags", "categories", "referencedPosts", "author", "company"})
 @EqualsAndHashCode(of = {"id"})
 public class BlogPost {
 
@@ -37,7 +37,11 @@ public class BlogPost {
 
     @Relationship(type = "TAGGED_WITH", direction = Relationship.Direction.OUTGOING)
     @Builder.Default
-    private Set<Topic> topics = new HashSet<>();  // multiple topics
+    private Set<Tag> tags = new HashSet<>();  // multiple tags
+
+    @Relationship(type = "CATEGORIZED_AS", direction = Relationship.Direction.OUTGOING)
+    @Builder.Default
+    private Set<Category> categories = new HashSet<>();  // multiple categories
 
     @Relationship(type = "BELONGS_TO", direction = Relationship.Direction.OUTGOING)
     private Company company;
